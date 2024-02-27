@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Application\bin\Debug\net7.0\Library.Application.deps.json
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Application\bin\Debug\net7.0\Library.Application.dll
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Application\bin\Debug\net7.0\Library.Application.pdb
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Application\bin\Debug\net7.0\Library.Core.dll
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Application\bin\Debug\net7.0\Library.Infra.dll
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Application\bin\Debug\net7.0\Library.Core.pdb
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Application\bin\Debug\net7.0\Library.Infra.pdb
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Application\obj\Debug\net7.0\Library.Application.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Application\obj\Debug\net7.0\Library.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Application\obj\Debug\net7.0\Library.Application.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Application\obj\Debug\net7.0\Library.Application.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Application\obj\Debug\net7.0\Library.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Application\obj\Debug\net7.0\Library.Application.csproj.CopyComplete
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Application\obj\Debug\net7.0\Library.Application.dll
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Application\obj\Debug\net7.0\refint\Library.Application.dll
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Application\obj\Debug\net7.0\Library.Application.pdb
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Application\obj\Debug\net7.0\ref\Library.Application.dll

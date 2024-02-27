@@ -23,21 +23,34 @@ public class Loan : BaseEntity
     public DateTime EndLoan { get; private set; }
     public int DaysLoan { get; private set; }
   //  public decimal ValueForDay { get; private set; }
-    public StatusLoan Status { get; set; }
-    
-    public void Delayed()
+    public StatusLoan Status { get; private set; }
+
+    public int DaysDelayed()
     {
         var TempoAtraso = EndLoan - StartLoan.AddDays(DaysLoan);
+
+        if (TempoAtraso.Days < 0) return 0;
         
-        if (TempoAtraso.Days > 0) Status = StatusLoan.Delayed;
+        return TempoAtraso.Days;
+    }
+    public void Delayed()
+    {
+        if (DaysDelayed() > 0) Status = StatusLoan.Delayed;
     }
     
-    public bool FinishedLoan()
+    public string FinishedLoan()
     {
-        if(Status == StatusLoan.Delayed) return false;
+        if (Status != StatusLoan.Finished)
+        {
+            EndLoan = DateTime.Now;
+            Delayed();
         
-        Status = StatusLoan.Finished;
+            if(Status == StatusLoan.Delayed) return "Cliente está com atraso de " + DaysDelayed() + " dias";
+        
+            Status = StatusLoan.Finished;
+            return "Emprestimo encerrado com sucesso!!";
+        }
 
-        return true;
+        return "Emprestimo ja foi encerrado.";
     }
 }

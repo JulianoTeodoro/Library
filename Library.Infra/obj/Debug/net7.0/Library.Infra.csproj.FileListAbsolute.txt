@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Infra\bin\Debug\net7.0\Library.Infra.deps.json
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Infra\bin\Debug\net7.0\Library.Infra.dll
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Infra\bin\Debug\net7.0\Library.Infra.pdb
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Infra\bin\Debug\net7.0\Library.Core.dll
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Infra\bin\Debug\net7.0\Library.Core.pdb
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Infra\obj\Debug\net7.0\Library.Infra.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Infra\obj\Debug\net7.0\Library.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Infra\obj\Debug\net7.0\Library.Infra.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Infra\obj\Debug\net7.0\Library.Infra.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Infra\obj\Debug\net7.0\Library.Infra.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Infra\obj\Debug\net7.0\Library.Infra.csproj.CopyComplete
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Infra\obj\Debug\net7.0\Library.Infra.dll
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Infra\obj\Debug\net7.0\refint\Library.Infra.dll
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Infra\obj\Debug\net7.0\Library.Infra.pdb
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Infra\obj\Debug\net7.0\ref\Library.Infra.dll
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Infra\bin\Debug\net7.0\Library.Infra.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\source\Library\Library.Infra\obj\Debug\net7.0\Library.Infra.genruntimeconfig.cache

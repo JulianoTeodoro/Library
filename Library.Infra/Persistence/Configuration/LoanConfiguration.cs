@@ -11,9 +11,10 @@ public class LoanConfiguration : IEntityTypeConfiguration<Loan>
         builder.ToTable("Loans").HasKey(p => p.Id);
 
         builder.HasOne(p => p.User)
-            .WithMany(p => p.LoansUser).HasForeignKey(p => p.Id);
+            .WithMany(p => p.LoansUser).HasForeignKey(p => p.IdUser);
         
         builder.HasOne(p => p.Book)
-            .WithMany(p => p.BooksLoan).HasForeignKey(p => p.Id);
+            .WithMany(p => p.BooksLoan).HasForeignKey(p => p.IdBook);
+        
     }
 }
